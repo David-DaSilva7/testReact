@@ -1,0 +1,79 @@
+body{
+background-color: rgb(43, 53, 136);
+}
+
+.form{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+  background-color: white;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  height: 720px;
+  width: 470px;
+}
+
+.title{
+  text-align: center;
+  color: rgb(43, 53, 136);
+}
+
+.email{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  background-color: white;
+  border: 1px solid #020202;
+  border-color: rgb(43, 53, 136);
+  border-radius: 4px;
+  height: 56px;
+  width: 381px;
+margin-top: 80px;
+padding-left: 20px;
+}
+
+.password{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  background-color: white;
+  border: 1px solid #020202;
+  border-color: rgb(43, 53, 136);
+  border-radius: 4px;
+  height: 56px;
+  width: 381px;
+margin-top: 160px;
+padding-left: 20px;
+}
+
+.passwordForget{
+  text-align: center;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+  margin-top: 300px;
+  color: rgb(43, 53, 136);
+}
+
+.button {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  bottom: 20px;
+  width: 320px;
+  height: 48px;
+  color: white;
+  background:rgb(43, 53, 136);
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.checkBox{
+  margin-top: 140px;
+  margin-left: 40px;
+}
+
+.labelCheckbox{
+  margin-left: 7px;
+}
+
